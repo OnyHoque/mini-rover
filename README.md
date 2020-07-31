@@ -2,17 +2,17 @@
 This is a 3D printer mini rover which can be controlled using web interface. The vehicle is capable of being automated using a opencv based tracking and guidance system. As the controls are web based, it can be easily integrated for automation.
 
 # Photos
-<img src="https://github.com/OnyHoque/mini-rover/blob/master/img/img 1.JPG"/>
+<img src="https://github.com/OnyHoque/mini-rover/blob/master/images/img 1.JPG"/>
 
-<img src="https://github.com/OnyHoque/mini-rover/blob/master/img/img 2.JPG"/>
+<img src="https://github.com/OnyHoque/mini-rover/blob/master/images/img 2.JPG"/>
 
-<img src="https://github.com/OnyHoque/mini-rover/blob/master/img/img 3.JPG"/>
+<img src="https://github.com/OnyHoque/mini-rover/blob/master/images/img 3.JPG"/>
 
-<img src="https://github.com/OnyHoque/mini-rover/blob/master/img/img 4.JPG"/>
+<img src="https://github.com/OnyHoque/mini-rover/blob/master/images/img 4.JPG"/>
 
-<img src="https://github.com/OnyHoque/mini-rover/blob/master/img/img 5.JPG"/>
+<img src="https://github.com/OnyHoque/mini-rover/blob/master/images/img 5.JPG"/>
 
-<img src="https://github.com/OnyHoque/mini-rover/blob/master/img/img 6.JPG"/>
+<img src="https://github.com/OnyHoque/mini-rover/blob/master/images/img 6.JPG"/>
 
 # Hardware required
 * 3D printer
